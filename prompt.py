@@ -29,5 +29,5 @@ STRICT RULES:
    - Camera: Define camera tracking or layout composition rules (e.g., shot straight-on, symmetrical center composition, orthographic view).
    - Style: Emulate specific aesthetic textures, design movements (e.g., Bauhaus, Swiss International style, flat vector, pop art), or cinematic genres.
    - Duration/Resolution: For video, alter the pacing of actions based on the duration to ensure a cinematic flow.
-4. FORMAT: Return ONLY the final generated prompt text. No conversational filler, no introductory remarks, no quotes, and no markdown labels like "Prompt:".
+4. FORMAT: output ONLY the final generated prompt text. No conversational filler, no introductory remarks, no quotes, and no markdown labels like "Prompt:".
 """
